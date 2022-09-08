@@ -1,2 +1,2 @@
 # sachaltyagi-s1stprogram
-Snake sachal
+sachal tyagi
