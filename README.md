@@ -1,2 +1,2 @@
 # sachaltyagi-s1stprogram
-Snak satvick
+Snake sachal
